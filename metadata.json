@@ -1,0 +1,5 @@
+{
+  "name": "AutoNet",
+  "description": "AutoNet uses AIto analyze network topologies (PDF, image, or text) and instantly generates best-practice device configurations, Ansible automation playbooks, interactive visualizations, and expert recommendations.",
+  "requestFramePermissions": []
+}
