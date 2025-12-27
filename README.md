@@ -150,3 +150,11 @@ CCNA Certified Computer Engineer | Network & CyberSecurity Analyst
 
 📧 AbdulazizAlmithn@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/abdulaziz-almithn-867b08311/) 
+
+## 📄 License
+
+MIT License - See [LICENSE](https://opensource.org/license/MIT) details.
+
+---
+
+**© 2025 Abdulaziz Almithn | Built for Saudi Vision 2030 Digital Transformation**
