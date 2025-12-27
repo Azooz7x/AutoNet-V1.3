@@ -106,23 +106,23 @@ Demonstrate end-to-end project lifecycle management from initiation through deli
 
 ## 📸 Screenshots
 ### Main Interface - Dual Input Options
-![AutoNet Upload Interface](./screenshots/01-upload-interface.jpg)
-![Text Input Interface](./screenshots/02-text-input.jpg)
+![AutoNet Upload Interface](./screenshots/01-upload-interface.png)
+![Text Input Interface](./screenshots/02-text-input.png)
 
 ### Analysis Results Overview
-![Analysis Complete](./screenshots/03-results-overview.jpg)
+![Analysis Complete](./screenshots/03-results-overview.png)
 
 ### Interactive Network Topology Visualization
-![Visual Topology Diagram](./screenshots/04-topology-visualization.jpg)
+![Visual Topology Diagram](./screenshots/04-topology-visualization.png)
 
 
 ### Generated Configurations with Security Validation
 Production-ready Cisco IOS configurations with built-in security audit findings highlighting best practices compliance.
-![Device Configurations with Security Audit](./05-device-configurations.jpg)
+![Device Configurations with Security Audit](./05-device-configurations.png)
 
 ### Network Analysis & Recommendations
 AutoNet doesn't just generate configurations - it analyzes your network design and provides actionable recommendations for redundancy, security hardening, monitoring, and scalability improvements.
-![Network Assessment and Recommendations](./screenshots/06-network-assessment-recommendations.jpg)
+![Network Assessment and Recommendations](./screenshots/06-network-assessment-recommendations.png)
 
 ---
 
