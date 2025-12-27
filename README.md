@@ -1,10 +1,9 @@
 # AutoNet - AI-Powered Network Security Automation Tool
 
-!Project Status
-!Python
-!React
-!Cisco
-!Ansible
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?logo=cisco&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white)
 
 **AutoNet** is an intelligent network security automation platform that transforms hours of manual configuration work into a one-click AI-driven workflow. Network engineers upload topology descriptions (text/PDF/natural language) and instantly receive validated Cisco IOS configurations, deployment-ready Ansible playbooks, and interactive network visualizations, with built-in security validation.
 
@@ -106,8 +105,24 @@ Demonstrate end-to-end project lifecycle management from initiation through deli
 **3. Install Dependencies & Run**
 
 ## 📸 Screenshots
+### Main Interface - Dual Input Options
+![AutoNet Upload Interface](./screenshots/01-upload-interface.jpg)
+![Text Input Interface](./screenshots/02-text-input.jpg)
+
+### Analysis Results Overview
+![Analysis Complete](./screenshots/03-results-overview.jpg)
+
+### Interactive Network Topology Visualization
+![Visual Topology Diagram](./screenshots/04-topology-visualization.jpg)
 
 
+### Generated Configurations with Security Validation
+Production-ready Cisco IOS configurations with built-in security audit findings highlighting best practices compliance.
+![Device Configurations with Security Audit](./05-device-configurations.jpg)
+
+### Network Analysis & Recommendations
+AutoNet doesn't just generate configurations - it analyzes your network design and provides actionable recommendations for redundancy, security hardening, monitoring, and scalability improvements.
+![Network Assessment and Recommendations](./screenshots/06-network-assessment-recommendations.jpg)
 
 ---
 
@@ -134,4 +149,4 @@ CCNA Certified Computer Engineer | Network & CyberSecurity Analyst
 | Technical Project Manager
 
 📧 AbdulazizAlmithn@gmail.com
-💼 LinkedIn Profile
+💼 [LinkedIn](https://www.linkedin.com/in/abdulaziz-almithn-867b08311/) 
