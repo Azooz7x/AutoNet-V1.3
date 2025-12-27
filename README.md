@@ -118,7 +118,7 @@ Demonstrate end-to-end project lifecycle management from initiation through deli
 
 ### Generated Configurations with Security Validation
 Production-ready Cisco IOS configurations with built-in security audit findings highlighting best practices compliance.
-![Device Configurations with Security Audit](./05-device-configurations.png)
+![Device Configurations with Security Audit](./screenshots/05-device-configurations.png)
 
 ### Network Analysis & Recommendations
 AutoNet doesn't just generate configurations - it analyzes your network design and provides actionable recommendations for redundancy, security hardening, monitoring, and scalability improvements.
