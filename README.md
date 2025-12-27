@@ -153,7 +153,7 @@ CCNA Certified Computer Engineer | Network & CyberSecurity Analyst
 
 ## 📄 License
 
-MIT License - See [LICENSE](https://opensource.org/license/MIT) details.
+MIT License - See [LICENSE](https://opensource.org/license/MIT) for more details.
 
 ---
 
